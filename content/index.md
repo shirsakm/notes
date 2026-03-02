@@ -12,4 +12,4 @@ Here is a small list to help you get started!
 
 * [[Philosophy]]: My views on life, naïve as they might be.
 * [[Analyses]]: TBA
-* [[Library]]: TBA
+* [[library|Library]]: A non-comprehensive list of books that I enjoy, or have enjoyed at some point in my life.
